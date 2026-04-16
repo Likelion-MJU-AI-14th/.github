@@ -1,4 +1,4 @@
-# likelion-mju-ai
+# 🦁likelion-mju-ai🦁
 멋쟁이사자처럼 14기 명지대학교 자연캠퍼스 ai파트 주차별 과제 제출용 리포지토리
 
 
